@@ -1,3 +1,4 @@
+### my surge url published @[https://exotic-blade.surge.sh/](https://exotic-blade.surge.sh/)
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
