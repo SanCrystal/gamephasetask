@@ -1,4 +1,5 @@
-### my surge url published @[https://exotic-blade.surge.sh/](https://exotic-blade.surge.sh/)
+### my opensea collections url @ [https://testnets.opensea.io/collection/yourcollectible-sgmvpwalpl](https://testnets.opensea.io/collection/yourcollectible-sgmvpwalpl)
+### my surge url published @[https://exotic-blade.surge.sh](https://exotic-blade.surge.sh/)
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
