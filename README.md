@@ -2,6 +2,7 @@
 
 ### my opensea collections url @ [https://testnets.opensea.io/collection/yourcollectible-sgmvpwalpl](https://testnets.opensea.io/collection/yourcollectible-sgmvpwalpl)
 ### my surge url published @[https://exotic-blade.surge.sh](https://exotic-blade.surge.sh/)
+### Rinkeby verified contract address [0xf1f9559769c93092d2d7a87bfbeca8df85d59930](https://rinkeby.etherscan.io/address/0xf1f9559769c93092d2d7a87bfbeca8df85d59930)
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
