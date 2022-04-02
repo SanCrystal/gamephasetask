@@ -1,3 +1,11 @@
+# Challenge 1
+
+### [verified contract 0xf0e1E8392d6dB131f98c769681c663060D15257B  address on rinkeby scan](https://rinkeby.etherscan.io/address/0xf0e1E8392d6dB131f98c769681c663060D15257B)
+### UI address surge link. [challenge-1-santa.surge.sh](https://challenge-1-santa.surge.sh/)
+
+
+
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 1: 🥩 Decentralized Staking App
