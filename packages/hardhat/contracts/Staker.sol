@@ -26,7 +26,7 @@ modifier canwithdraw(){
 }
   ExampleExternalContract public exampleExternalContract;
 
-  constructor(address exampleExternalContractAddress) public {
+  constructor(address exampleExternalContractAddress) {
       exampleExternalContract = ExampleExternalContract(exampleExternalContractAddress);
   }
 
@@ -44,7 +44,7 @@ modifier canwithdraw(){
   // After some `deadline` allow anyone to call an `execute()` function
   //  It should either call `exampleExternalContract.complete{value: address(this).balance}()` to send all the value
 
-uint256 public deadline = block.timestamp + 60 seconds;
+uint256 public deadline = block.timestamp + 72 hours;
 bool  openForWithdraw =false;
 
 function execute() public notCompleted returns(bool){
