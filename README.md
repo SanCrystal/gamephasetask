@@ -1,3 +1,11 @@
+# Challenge 2
+
+## Verified contract on rinkeby scan [0xA95590d8F39d3450644231E3bed8fC3cC498c8dB](https://rinkeby.etherscan.io/address/0xA95590d8F39d3450644231E3bed8fC3cC498c8dB)
+## Surge Url for UI [challenge-2-santa.surge.sh](https://challenge-2-santa.surge.sh)
+
+
+
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
